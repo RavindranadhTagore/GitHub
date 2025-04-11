@@ -10,6 +10,8 @@ Phani,
 
 # Create Branches
 
+main (default),
+
 Master,
 
 Fet1,
@@ -17,7 +19,7 @@ Fet1,
 Dev1.
 
 
-# Pull Request and Merge
+# Create Pull Request and Merge
 
 
 # Create a Tags
