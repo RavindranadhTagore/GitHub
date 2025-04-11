@@ -1,29 +1,24 @@
-# GitHub
+# 🚀 GitHub Project
 
+## 📁 Created Files
+- `Phani`
+- `.gitignore`
+- `README.md`
 
-# Create A Files
+## 🌱 Branches
+- `main` (default)
+- `master`
+- `dev1` (development branch)
+- `fet1` (feature branch)
 
-Phani,
+## 🔀 Pull Requests & Merging
+- Pull requests were created to merge `fet1` into `dev1`
+- Final merge to `main` for release
 
-.gitignore.
+## 🏷️ Git Tags (Releases)
+- `v1.0` – Initial version
+- `v2.0` – Second release
 
-
-# Create Branches
-
-main (default),
-
-Master,
-
-Fet1,
-
-Dev1.
-
-
-# Create Pull Request and Merge
-
-
-# Create a Tags
-
-V1.0,
-
-V2.0.
+## 📌 Notes
+- `.gitignore` added to exclude unnecessary files
+- Used Git best practices for commits, branching, and tagging
